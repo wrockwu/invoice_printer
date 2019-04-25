@@ -8,7 +8,7 @@
 
 # Windows环境安装步骤
 #### 1.安装python3
-打开链接下载python3安装包(https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe)。
+打开链接下载[python3安装包]https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe
 #### 2.安装程序依赖包
 
 
